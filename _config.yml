@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Chocofede.github.io
+title: Federico Jiménez Clemente
+tagline: Desarrollo
+description: Mis pensamientos y devaneos en el desarrollo
+paginate: 5
